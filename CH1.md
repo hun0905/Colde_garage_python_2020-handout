@@ -45,8 +45,8 @@ print("hello world")
     解
 '''
 ```
-# python 的所有資料型態
-bool,int,float,complex,str,list,tuple,bytes,bytearray,set,frozenset,dict
+# python 的資料型態
+bool, int, float, complex, str, list, tuple, bytes, bytearray, set, frozenset, dict
 # 變數
 ## 變數型別
 * 數值型態：int, float, bool
