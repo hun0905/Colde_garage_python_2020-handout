@@ -30,7 +30,7 @@ hello
 # Hello World
 ```python=
 print("hello world")
-```
+```\
 # 註解
 ## 單行註解
 ```python=
@@ -45,6 +45,21 @@ print("hello world")
     解
 '''
 ```
+# 延序一行文字
+'''
+sum = 1+\
+      2+\
+      3
+print(sum)
+'''
+# 字串型態
+\\	\	
+\'	 '
+\"	 "
+\n	換行
+\r	歸位
+\t	Tab
+\0	空字元
 # python 的資料型態
 bool, int, float, complex, str, list, tuple, bytes, bytearray, set, frozenset, dict
 # 變數
